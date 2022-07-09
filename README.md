@@ -12,8 +12,8 @@ Para utilizar esse projeto será necessario a instalação de algumas biblioteca
 4. Abra a pasta PokemonAPI e procure o arquivo "main.py" e execute.
 
 - O que é a PokemonAPI?
-É uma aplicação com interface gráfica que ultilizar a API do PokéAPI para buscar
+1. É uma aplicação com interface gráfica que ultilizar a API do PokéAPI para buscar
 informações sobre pokemons, a busca pelo pokemon pode ser atravez do id (que está disponivel no site https://pokeapi.co)
 ou usando o nome do pokemon, como, por exemplo, Pikachu.
-Ao digitar o id ou nome do pokemon, clique no botão "GET POKEMON", a aplicação buscará a foto e o nome do pokemon
+2. Ao digitar o id ou nome do pokemon, clique no botão "GET POKEMON", a aplicação buscará a foto e o nome do pokemon
 informado, em breve teremos mais funcionalidades.
