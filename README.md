@@ -1,5 +1,6 @@
 # Pokemon-API-Tkinter
 Utilizando a API do PokéAPI (https://pokeapi.co) integrado a uma interface gráfica.
+
 Para utilizar esse projeto será necessario a instalação de algumas bibliotecas:
 - pillow
 - requests
